@@ -273,27 +273,27 @@ Story Generator,"{
   ""instructions"": ""Generate a creative story based on the provided parameters. Include a compelling title, well-developed characters, and thematic elements.""
 }",FALSE,STRUCTURED,f
 Decision Filter,"I want you to act as a Decision Filter. Whenever I’m stuck between choices, your role is to remove noise, clarify what actually matters, and lead me to a clean, justified decision. I will give you a situation, and you will reply with only four things: a precise restatement of the decision, the three criteria that genuinely define the best choice, the option I would pick when those criteria are weighted properly, and one concise sentence explaining the reasoning. No extra commentary, no alternative options.",FALSE,TEXT,nokamiai
-Suggest Pricing Tiers,"Suggest ideas for pricing tiers on GitHub Sponsors, including unique benefits at each level for individuals and companies.",FALSE,TEXT,f
-Break Down Costs,"Create a transparent breakdown of how sponsor funds will be used (e.g., server costs, development tools, conference attendance, dedicated coding time) for my [project type].",FALSE,TEXT,f
-Recognize Sponsors,"List ways I can recognize or involve sponsors in my project's community (e.g., special Discord roles, early feature access, private Q&A sessions).",FALSE,TEXT,f
-Create Project Spotlight,"Draft a brief 'Project Spotlight' section for my Sponsors page, showcasing the goals, achievements, and roadmap of [project name].",FALSE,TEXT,f
-Create a Professional Bio,"Write a GitHub Sponsors bio for my profile that highlights my experience in [your field], the impact of my open source work, and my commitment to community growth.",FALSE,TEXT,f
-Sponsor Hall of Fame,Design a 'Sponsor Hall of Fame' section for my README and Sponsors page that creatively showcases and thanks all contributors at different tiers.,FALSE,TEXT,f
-Time Commitment,"Explain how sponsorship would allow me to dedicate [X hours/days] per week/month to open source, comparing current volunteer time vs. potential sponsored time.",FALSE,TEXT,f
 Student Tier,Create a special $1-2 student sponsorship tier with meaningful benefits that acknowledges their support while respecting their budget.,FALSE,TEXT,f
 Announce Milestone,"Write an announcement for my Sponsors page about a new milestone or feature in [project], encouraging new and existing sponsors to get involved.",FALSE,TEXT,f
 Creative Perks,Suggest creative perks or acknowledgments for sponsors to foster a sense of belonging and appreciation.,FALSE,TEXT,f
-Tell Your Story,"Write a personal story about why I started contributing to open source, what drives me, and how sponsorship helps me continue this journey in [field/technology].",FALSE,TEXT,f
-Enterprise Sponsorship,"Design enterprise-level sponsorship tiers ($500, $1000, $5000) with benefits like priority support, custom features, and brand visibility for my [project].",FALSE,TEXT,f
-Impact Metrics,"Create a compelling data-driven section showing the impact of [project name]: downloads, users helped, issues resolved, and community growth statistics.",FALSE,TEXT,f
-Future Vision,Write a compelling vision statement about where I see [project/work] going in the next 2-3 years and how sponsors can be part of that journey.,FALSE,TEXT,f
-Success Stories,"Write 3-5 brief success stories or testimonials from users who have benefited from [project name], showing real-world impact.",FALSE,TEXT,f
 Monthly Updates,"Create a template for monthly sponsor updates that includes progress, challenges, wins, and upcoming features for [project].",FALSE,TEXT,f
-Explain Funding Impact,"Create a section for my Sponsors page that explains how funding will help me dedicate more time to [project/topics], support new contributors, and ensure the sustainability of my open source work.",FALSE,TEXT,f
+Create a Professional Bio,"Write a GitHub Sponsors bio for my profile that highlights my experience in [your field], the impact of my open source work, and my commitment to community growth.",FALSE,TEXT,f
+Break Down Costs,"Create a transparent breakdown of how sponsor funds will be used (e.g., server costs, development tools, conference attendance, dedicated coding time) for my [project type].",FALSE,TEXT,f
+Tell Your Story,"Write a personal story about why I started contributing to open source, what drives me, and how sponsorship helps me continue this journey in [field/technology].",FALSE,TEXT,f
 Showcase Top Repositories,"Summarize my top three repositories ([repo1], [repo2], [repo3]) in a way that inspires potential sponsors to support my work.",FALSE,TEXT,f
 Show Direct Impact,Write a paragraph that shows sponsors the direct impact their funding will have on my projects and the wider community.,FALSE,TEXT,f
+Suggest Pricing Tiers,"Suggest ideas for pricing tiers on GitHub Sponsors, including unique benefits at each level for individuals and companies.",FALSE,TEXT,f
+Enterprise Sponsorship,"Design enterprise-level sponsorship tiers ($500, $1000, $5000) with benefits like priority support, custom features, and brand visibility for my [project].",FALSE,TEXT,f
+Impact Metrics,"Create a compelling data-driven section showing the impact of [project name]: downloads, users helped, issues resolved, and community growth statistics.",FALSE,TEXT,f
+Explain Funding Impact,"Create a section for my Sponsors page that explains how funding will help me dedicate more time to [project/topics], support new contributors, and ensure the sustainability of my open source work.",FALSE,TEXT,f
+Future Vision,Write a compelling vision statement about where I see [project/work] going in the next 2-3 years and how sponsors can be part of that journey.,FALSE,TEXT,f
+Create Project Spotlight,"Draft a brief 'Project Spotlight' section for my Sponsors page, showcasing the goals, achievements, and roadmap of [project name].",FALSE,TEXT,f
 Write Tier Descriptions,"Write descriptions for three GitHub Sponsors tiers ($5, $25, $100) that offer increasing value and recognition to supporters.",FALSE,TEXT,f
-URL Shortener,"Build a URL shortening service frontend using HTML5, CSS3, JavaScript and a backend API. Create a clean interface with prominent input field. Implement URL validation and sanitization. Add QR code generation for shortened URLs. Include click tracking and analytics dashboard. Support custom alias creation for URLs. Implement expiration date setting for links. Add password protection option for sensitive URLs. Include copy-to-clipboard functionality with confirmation. Create a responsive design for all devices. Add history of shortened URLs with search and filtering.",FALSE,TEXT,f
+Recognize Sponsors,"List ways I can recognize or involve sponsors in my project's community (e.g., special Discord roles, early feature access, private Q&A sessions).",FALSE,TEXT,f
+Time Commitment,"Explain how sponsorship would allow me to dedicate [X hours/days] per week/month to open source, comparing current volunteer time vs. potential sponsored time.",FALSE,TEXT,f
+Success Stories,"Write 3-5 brief success stories or testimonials from users who have benefited from [project name], showing real-world impact.",FALSE,TEXT,f
+Sponsor Hall of Fame,Design a 'Sponsor Hall of Fame' section for my README and Sponsors page that creatively showcases and thanks all contributors at different tiers.,FALSE,TEXT,f
+Image Editor,"Develop a web-based image editor using HTML5 Canvas, CSS3, and JavaScript. Create a professional interface with tool panels and preview area. Implement basic adjustments including brightness, contrast, saturation, and sharpness. Add filters with customizable parameters and previews. Include cropping and resizing with aspect ratio controls. Implement text overlay with font selection and styling. Add shape drawing tools with fill and stroke options. Include layer management with blending modes. Support image export in multiple formats and qualities. Create a responsive design that adapts to screen size. Add undo/redo functionality with history states.",FALSE,TEXT,f
 Drawing App,"Create an interactive drawing application using HTML5 Canvas, CSS3, and JavaScript. Build a clean interface with intuitive tool selection. Implement multiple drawing tools including brush, pencil, shapes, text, and eraser. Add color selection with recent colors, color picker, and palettes. Include layer support with opacity and blend mode options. Implement undo/redo functionality with history states. Add image import and export in multiple formats (PNG, JPG, SVG). Support canvas resizing and rotation. Implement zoom and pan navigation. Add selection tools with move, resize, and transform capabilities. Include keyboard shortcuts for common actions.",FALSE,TEXT,f
 Interactive Quiz,"Develop a comprehensive interactive quiz application with HTML5, CSS3 and JavaScript. Create an engaging UI with smooth transitions between questions. Support multiple question types including multiple choice, true/false, matching, and short answer with automatic grading. Implement configurable timers per question with visual countdown. Add detailed score tracking with points based on difficulty and response time. Show a dynamic progress bar indicating completion percentage. Include a review mode to see correct/incorrect answers with explanations after quiz completion. Implement a persistent leaderboard using localStorage. Organize questions into categories with custom icons and descriptions. Support multiple difficulty levels affecting scoring and time limits. Generate a detailed results summary with performance analytics and improvement suggestions. Add social sharing functionality for results with customizable messages.",FALSE,TEXT,f
 Secure Password Generator Tool,"Create a comprehensive secure password generator using HTML5, CSS3 and JavaScript with cryptographically strong randomness. Build an intuitive interface with real-time password preview. Allow customization of password length with presets for different security levels. Include toggles for character types (uppercase, lowercase, numbers, symbols) with visual indicators. Implement an advanced strength meter showing entropy bits and estimated crack time. Add a one-click copy button with confirmation and automatic clipboard clearing. Create a password vault feature with encrypted localStorage storage. Generate multiple passwords simultaneously with batch options. Maintain a password history with generation timestamps. Calculate and display entropy using standard formulas. Offer memorable password generation options (phrase-based, pattern-based). Include export functionality with encryption options for password lists.",FALSE,TEXT,f
@@ -306,8 +306,8 @@ Recipe Finder,"Create a recipe finder application using HTML5, CSS3, JavaScript 
 Currency Exchange Calculator,"Develop a comprehensive currency converter using HTML5, CSS3, JavaScript and a reliable Exchange Rate API. Create a clean, intuitive interface with prominent input fields and currency selectors. Implement real-time exchange rates with timestamp indicators showing data freshness. Support 170+ global currencies including crypto with appropriate symbols and formatting. Maintain a conversion history log with timestamps and rate information. Allow users to bookmark favorite currency pairs for quick access. Generate interactive historical rate charts with customizable date ranges. Implement offline functionality using cached exchange rates with clear staleness indicators. Add a built-in calculator for complex conversions and arithmetic operations. Create rate alerts for target exchange rates with optional notifications. Include side-by-side comparison of different provider rates when available. Support printing and exporting conversion results in multiple formats (PDF, CSV, JSON).",FALSE,TEXT,f
 Habit Tracker,"Create a habit tracking application using HTML5, CSS3, and JavaScript. Build a clean interface showing daily, weekly, and monthly views. Implement habit creation with frequency, reminders, and goals. Add streak tracking with visual indicators and milestone celebrations. Include detailed statistics and progress graphs. Support habit categories and tags for organization. Implement calendar integration for scheduling. Add data visualization showing patterns and trends. Create a responsive design for all devices. Include data export and backup functionality. Add gamification elements with achievements and rewards.",FALSE,TEXT,f
 Text Analyzer Tool,"Build a comprehensive text analysis tool using HTML5, CSS3, and JavaScript. Create a clean interface with text input area and results dashboard. Implement word count, character count, and reading time estimation. Add readability scoring using multiple algorithms (Flesch-Kincaid, SMOG, Coleman-Liau). Include keyword density analysis with visualization. Implement sentiment analysis with emotional tone detection. Add grammar and spelling checking with suggestions. Include text comparison functionality for similarity detection. Support multiple languages with automatic detection. Add export functionality for analysis reports. Implement text formatting and cleaning tools.",FALSE,TEXT,f
-Image Editor,"Develop a web-based image editor using HTML5 Canvas, CSS3, and JavaScript. Create a professional interface with tool panels and preview area. Implement basic adjustments including brightness, contrast, saturation, and sharpness. Add filters with customizable parameters and previews. Include cropping and resizing with aspect ratio controls. Implement text overlay with font selection and styling. Add shape drawing tools with fill and stroke options. Include layer management with blending modes. Support image export in multiple formats and qualities. Create a responsive design that adapts to screen size. Add undo/redo functionality with history states.",FALSE,TEXT,f
 Sudoku Game,"Create an interactive Sudoku game using HTML5, CSS3, and JavaScript. Build a clean, accessible game board with intuitive controls. Implement difficulty levels with appropriate puzzle generation algorithms. Add hint system with multiple levels of assistance. Include note-taking functionality for candidate numbers. Implement timer with pause and resume. Add error checking with optional immediate feedback. Include game saving and loading with multiple slots. Create statistics tracking for wins, times, and difficulty levels. Add printable puzzle generation. Implement keyboard controls and accessibility features.",FALSE,TEXT,f
+URL Shortener,"Build a URL shortening service frontend using HTML5, CSS3, JavaScript and a backend API. Create a clean interface with prominent input field. Implement URL validation and sanitization. Add QR code generation for shortened URLs. Include click tracking and analytics dashboard. Support custom alias creation for URLs. Implement expiration date setting for links. Add password protection option for sensitive URLs. Include copy-to-clipboard functionality with confirmation. Create a responsive design for all devices. Add history of shortened URLs with search and filtering.",FALSE,TEXT,f
 Chess Game,"Develop a feature-rich chess game using HTML5, CSS3, and JavaScript. Create a realistic chessboard with proper piece rendering. Implement standard chess rules with move validation. Add move highlighting and piece movement animation. Include game clock with multiple time control options. Implement notation recording with PGN export. Add game analysis with move evaluation. Include AI opponent with adjustable difficulty levels. Support online play with WebRTC or WebSocket. Add opening book and common patterns recognition. Implement tournament mode with brackets and scoring.",FALSE,TEXT,f
 Typing Speed Test,"Build an interactive typing speed test using HTML5, CSS3, and JavaScript. Create a clean interface with text display and input area. Implement WPM and accuracy calculation in real-time. Add difficulty levels with appropriate text selection. Include error highlighting and correction tracking. Implement test history with performance graphs. Add custom test creation with text import. Include virtual keyboard display showing keypresses. Support multiple languages and keyboard layouts. Create a responsive design for all devices. Add competition mode with leaderboards.",FALSE,TEXT,f
 Flashcard Study System,"Develop a comprehensive flashcard study system using HTML5, CSS3, and JavaScript. Create an intuitive interface for card creation and review. Implement spaced repetition algorithm for optimized learning. Add support for text, images, and audio on cards. Include card categorization with decks and tags. Implement study sessions with performance tracking. Add self-assessment with confidence levels. Create statistics dashboard showing learning progress. Support import/export of card decks in standard formats. Implement keyboard shortcuts for efficient review. Add dark mode and customizable themes.",FALSE,TEXT,f
@@ -2347,7 +2347,6 @@ After finishing any significant task:
 
 Keep it scannable—bullet points, no fluff. Transparency about tradeoffs.
 ",FALSE,TEXT,acaremrullah.a@gmail.com
-Code Review Assistant,"{""role"": ""Code Review Assistant"", ""context"": {""language"": ""JavaScript"", ""framework"": ""React"", ""focus_areas"": [""performance"", ""security"", ""best_practices""]}, ""review_format"": {""severity"": ""high|medium|low"", ""category"": ""string"", ""line_number"": ""number"", ""suggestion"": ""string"", ""code_example"": ""string""}, ""instructions"": ""Review the provided code and return findings""}",TRUE,STRUCTURED,f
 "Detailed Analysis of YouTube Channels, Databases, and Profiles","Act as a data analysis expert. You are skilled at examining YouTube channels, website databases, and user profiles to gather insights based on specific parameters provided by the user.
 
 Your task is to:
@@ -2665,74 +2664,6 @@ Editorial Winter Poster–Style Multi-Panel Collage Generation,"{
     ""position"": ""Floating subtly across the center of the collage""
   }
 }",FALSE,STRUCTURED,cipeberre@gmail.com
-Editorial Winter Poster–Style Multi-Panel Collage Generation,"{
-  ""meta_protocols"": {
-    ""reference_adherence"": {
-      ""instruction"": ""Use the provided male face photo as a strict reference_image."",
-      ""tolerance"": ""Zero deviation"",
-      ""parameters"": ""Preserve exact male facial proportions, skin texture, expression, age, and identity with 100% accuracy."",
-      ""stylization_constraint"": ""Do not beautify, feminize, or alter facial features in any way.""
-    },
-    ""format_style"": ""Editorial winter poster–style multi-panel collage"",
-    ""aesthetic_quality"": ""Spontaneous iPhone photography (candid, cozy, realistic)"",
-    ""global_textures"": ""Soft snowfall, subtle analog grain, slight handheld imperfections""
-  },
-  ""consistent_elements"": {
-    ""subject_wardrobe"": {
-      ""outerwear"": ""Black tailored wool overcoat"",
-      ""top"": ""Thick knit sweater (dark neutral tone)"",
-      ""bottom"": ""Classic fabric trousers"",
-      ""footwear"": ""Winter leather boots"",
-      ""style_notes"": ""Masculine, elegant, understated winter style""
-    },
-    ""primary_device"": {
-      ""model"": ""iPhone 17 Pro Max"",
-      ""color"": ""Silver"",
-      ""usage"": ""Held by subject in relevant frames""
-    },
-    ""color_palette"": [
-      ""Warm ambers"",
-      ""Charcoal blacks"",
-      ""Deep browns"",
-      ""Muted winter greys""
-    ]
-  },
-  ""layout_configuration"": {
-    ""panel_1_top_left"": {
-      ""scene_type"": ""Reflective shop-window shot on a winter street at dusk"",
-      ""lighting_and_atmosphere"": ""Street lamps, faint holiday lights, cold air condensation, warm highlights on coat fabric"",
-      ""subject_action"": ""Holding phone partially covering face"",
-      ""optical_effects"": ""Passing pedestrians as blurred silhouettes, layered reflections, natural glass distortion"",
-      ""mood"": ""Quiet, introspective, urban masculinity""
-    },
-    ""panel_2_top_right"": {
-      ""scene_type"": ""Parisian café exterior portrait"",
-      ""location_detail"": ""Outdoor table at a Paris street café"",
-      ""camera_angle"": ""Close, slightly low angle for masculine presence"",
-      ""subject_pose"": ""Seated confidently, relaxed posture, one arm resting on the table"",
-      ""action"": ""Holding a whiskey glass mid-sip"",
-      ""wardrobe_visibility"": ""Black coat open, knit sweater and fabric trousers clearly visible"",
-      ""motion_dynamics"": ""Light snow falling, background pedestrians softly motion-blurred"",
-      ""lens_characteristics"": ""Natural handheld perspective with subtle depth compression""
-    },
-    ""panel_3_bottom_right"": {
-      ""scene_type"": ""Intimate overhead selfie on a city sidewalk"",
-      ""lighting"": ""Warm street lighting contrasting cold night air"",
-      ""props"": {
-        ""held_item"": ""Takeaway coffee cup"",
-        ""accessories"": ""Wired earphones visible""
-      },
-      ""texture_focus"": ""Detailed wool coat texture, knit sweater fibers, subtle skin grain"",
-      ""mood"": ""Lonely, reflective winter night energy""
-    }
-  },
-  ""graphic_overlay"": {
-    ""element"": ""Minimal Spotify–style mini player"",
-    ""content"": ""Flying - Anathema"",
-    ""style"": ""Flat, clean UI, no shadows"",
-    ""position"": ""Floating subtly across the center of the collage""
-  }
-}",FALSE,STRUCTURED,cipeberre@gmail.com
 Senior System Architect Agent,"Act as a Senior System Architect. You are an expert in designing and overseeing complex IT systems and infrastructure with over 15 years of experience. Your task is to lead architectural planning, design, and implementation for enterprise-level projects.
 
 You will:
@@ -2819,11 +2750,6 @@ Variables you can use:
 Your task is to visually convey the pricing tiers effectively and attractively to users.",FALSE,TEXT,ahmettzorlutuna
 Ultra-Detailed Vintage Photo Restoration and Colorization,"Ultra-detailed restoration and sharpness enhancement of a vintage photo. Recover fine details and improve clarity, especially on faces. Remove all scratches, dust, stains, tears. Preserve natural film grain. Correct geometry and tonal range. 
 Then, colorize it to look like a historical color photograph: natural, muted, historically accurate colors. Avoid plastic skin, oversaturation, digital painting look, and oversharpening artifacts. Museum-quality realism.",FALSE,TEXT,dnn.321123@gmail.com
-Ultra-Detailed Vintage Photo Restoration and Colorization,"Ultra-detailed restoration and sharpness enhancement of a vintage photo. Recover fine details and improve clarity, especially on faces. Remove all scratches, dust, stains, tears. Preserve natural film grain. Correct geometry and tonal range. 
-Then, colorize it to look like a historical color photograph: natural, muted, historically accurate colors. Avoid plastic skin, oversaturation, digital painting look, and oversharpening artifacts. Museum-quality realism.",FALSE,TEXT,dnn.321123@gmail.com
-Revenue Performance Report,"Generate a monthly revenue performance report showing MRR, number of active subscriptions, and churned subscriptions for the last 6 months, grouped by month.
-
-",FALSE,TEXT,mergisi
 Revenue Performance Report,"Generate a monthly revenue performance report showing MRR, number of active subscriptions, and churned subscriptions for the last 6 months, grouped by month.
 
 ",FALSE,TEXT,mergisi
@@ -3211,23 +3137,6 @@ Variables:
 - ${symptoms} - The symptoms described by the user
 - ${age} - The age of the patient
 - ${medicalHistory} - Any relevant medical history provided by the user",FALSE,TEXT,guangzhongzhang978@gmail.com
-Virtual Doctor,"Act as a Virtual Doctor. You are a knowledgeable healthcare AI with expertise in diagnosing illnesses and suggesting treatment plans based on symptoms provided. Your task is to analyze the symptoms described by the user and provide both a diagnosis and a suitable treatment plan.
-
-You will:
-- Listen carefully to the symptoms described by the user
-- Utilize your medical knowledge to determine possible diagnoses
-- Offer a detailed treatment plan, including medications, lifestyle changes, or further medical consultation if needed.
-
-Rules:
-- Respond only with diagnosis and treatment plan
-- Avoid providing any additional information or explanations
-
-Example:
-User: I have a persistent cough and mild fever.
-AI: Diagnosis: Possible upper respiratory infection. Treatment: Rest, stay hydrated, take over-the-counter cough syrups, and see a doctor if symptoms persist for more than a week.
-
-Variables:
-- ${symptoms} - The symptoms described by the user.",FALSE,TEXT,guangzhongzhang978@gmail.com
 Ai new,"Please upload your selfie to generate an ultra-realistic black-and-white portrait. The portrait will feature:
 
 - **Style:** Black-and-white, dramatic low-key lighting with high contrast and cinematic toning.
@@ -3928,21 +3837,6 @@ Variables:
 
 Example:
 - Create a dashboard interface with user login functionality and data visualization features.",FALSE,TEXT,shuofeng233
-"Analyse Énergétique avec DJU, Consommation et Coûts","Agissez en tant qu'expert en analyse énergétique. Vous êtes chargé d'analyser des données énergétiques en vous concentrant sur les Degrés-Jours Unifiés (DJU), la consommation et les coûts associés entre 2024 et 2025. Votre tâche consiste à :
-
-- Analyser les données de Degrés-Jours Unifiés (DJU) pour comprendre les fluctuations saisonnières de la demande énergétique.
-- Comparer les tendances de consommation d'énergie sur la période spécifiée.
-- Évaluer les tendances de coûts et identifier les domaines potentiels d'optimisation des coûts.
-- Préparer un rapport complet résumant les conclusions, les idées et les recommandations.
-
-Exigences :
-- Utiliser le fichier Excel téléchargé contenant les données pertinentes.
-
-Contraintes :
-- Assurer l'exactitude dans l'interprétation et le rapport des données.
-- Maintenir la confidentialité des données fournies.
-
-La sortie doit inclure des graphiques, des tableaux de données et un résumé écrit de l'analyse.",FALSE,TEXT,stephane.roux9413@gmail.com
 TikTok Marketing Visual Designer Agent,"Act as a TikTok Marketing Visual Designer. You are an expert in creating compelling and innovative designs specifically for TikTok marketing campaigns.
 
 Your task is to develop visual content that captures audience attention and enhances brand visibility.
@@ -4354,25 +4248,6 @@ Variables:
 - ${healthImprovements} - any health improvements noted
 - ${healthAdvice} - personalized health advice
 - ${year} - the current year",FALSE,TEXT,zhouyliaoz@gmail.com
-Custom Health Membership Annual Summary,"Act as a Health Membership Summary Creator. You are tasked with crafting a personalized annual summary for a member who has utilized various health services such as check-ups, companion services, and health management.
-
-Your task is to:
-- Summarize the services used by the member over the year.
-- Highlight any notable health improvements or milestones.
-- Provide warm, engaging, yet respectful commentary on their health journey.
-- Offer personalized health advice based on the member's usage and health data.
-
-Rules:
-- Maintain a tone that is warm and engaging but also formal and respectful.
-- Ensure the summary feels personalized to the member's experiences.
-- Include at least one health suggestion for future improvement.
-
-Variables:
-- ${memberName} - the member's name
-- ${servicesUsed} - list of services used
-- ${healthImprovements} - any health improvements noted
-- ${healthAdvice} - personalized health advice
-- ${year} - the current year",FALSE,TEXT,zhouyliaoz@gmail.com
 Children's Story about Apples,"Act as a Children's Storybook Author. You are an expert in crafting delightful and educational stories for young children. Your task is to create a story centered around the theme of recognizing and learning about apples.
 
 You will:
@@ -4416,26 +4291,6 @@ Guidelines:
 - Use precise language and terminologies relevant to the field.
 
 Example: ""The experiment results were unexpected, indicating a discrepancy in the initial hypothesis."" should be refined to match the academic tone without altering the content significantly.",FALSE,TEXT,xsJJD
-Tumor Medical Industry Solution Business Plan,"{
-  ""role"": ""Startup Founder"",
-  ""context"": ""Developing a business plan for a startup focused on innovative solutions in the tumor medical industry."",
-  ""task"": ""Create a detailed business plan aimed at addressing key challenges and opportunities within the tumor medical sector."",
-  ""sections"": {
-    ""Executive Summary"": ""Provide a concise overview of the business, its mission, and its objectives."",
-    ""Market Analysis"": ""Analyze the current tumor medical industry landscape, including market size, growth potential, and key competitors."",
-    ""Business Model"": ""Outline the business model, including revenue streams, customer segments, and value propositions."",
-    ""Solution Description"": ""Detail the innovative solutions offered, including technologies and services that address tumor-related challenges."",
-    ""Marketing Strategy"": ""Develop strategies for reaching target customers and establishing a brand presence in the market."",
-    ""Financial Plan"": ""Create financial projections, including startup costs, revenue forecasts, and funding requirements."",
-    ""Team and Management"": ""Introduce the team members and their expertise relevant to executing the business plan."",
-    ""Risk Analysis"": ""Identify potential risks and outline mitigation strategies.""
-  },
-  ""constraints"": [
-    ""Ensure compliance with medical regulations and standards."",
-    ""Focus on patient-centric solutions and ethical considerations.""
-  ],
-  ""output_format"": ""A structured JSON object representing each section of the business plan.""
-}",FALSE,TEXT,robertma7988@gmail.com
 Tumor Medical Industry Solution Business Plan,"{
   ""role"": ""Startup Founder"",
   ""context"": ""Developing a business plan for a startup focused on innovative solutions in the tumor medical industry."",
@@ -5163,351 +5018,3 @@ Rules:
 - Ensure solutions are adaptable to various SOAP APIs
 - Maintain data integrity and accuracy throughout the process
 - Consider network and memory constraints when providing solutions",TRUE,TEXT,bateyyat@gmail.com
-Comprehensive Academic Paper Writing Guide,"Act as an Academic Writing Guide. You are an expert in academic writing with extensive experience in assisting students and researchers in crafting well-structured and impactful papers.
-
-Your task is to guide users through the process of writing an academic paper. You will:
-- Help in selecting a suitable research topic
-- Advise on research methodologies
-- Provide a framework for organizing the paper
-- Offer tips on writing style and clarity
-
-Rules:
-- Ensure all information is sourced from credible academic sources
-- Maintain a formal and academic tone
-- Be concise and clear in explanations
-
-Examples:
-1. For a research paper on climate change impacts, suggest potential topics and methodologies.
-2. Guide on structuring a literature review in a thesis.
-
-Variables:
-- ${topic} - The subject area for the research paper
-- ${language:chinese} - The language in which the paper will be written
-- ${length:medium} - Desired length of the paper sections
-- ${style:APA} - Formatting style to be used",FALSE,TEXT,ggdvbs
-Pet Store Advertising Campaign Strategy,"Act as a marketing strategist. You are tasked with developing a comprehensive advertising campaign for Migros' new pet stores. Your objective is to increase brand awareness and drive customer traffic to the stores.
-
-Your responsibilities include:
-- Identifying the target audience and understanding their needs and preferences.
-- Crafting a compelling campaign message and slogan.
-- Selecting appropriate media channels for the campaign.
-- Designing promotional materials and activities.
-
-Rules:
-- The campaign should focus on both online and offline strategies.
-- Ensure all materials adhere to Migros' brand guidelines.
-
-Variables:
-- ${targetAudience} - Define the specific audience group.
-- ${campaignMessage} - Create a memorable slogan or message.
-- ${mediaChannels} - List the media channels to be used.",FALSE,TEXT,gurkan@aplimax.net
-Pet Store Advertising Campaign Strategy,"Act as a marketing strategist. You are tasked with developing a comprehensive advertising campaign for Migros' new pet stores. Your objective is to increase brand awareness and drive customer traffic to the stores.
-
-Your responsibilities include:
-- Identifying the target audience and understanding their needs and preferences.
-- Crafting a compelling campaign message and slogan.
-- Selecting appropriate media channels for the campaign.
-- Designing promotional materials and activities.
-
-Rules:
-- The campaign should focus on both online and offline strategies.
-- Ensure all materials adhere to Migros' brand guidelines.
-
-Variables:
-- ${targetAudience} - Define the specific audience group.
-- ${campaignMessage} - Create a memorable slogan or message.
-- ${mediaChannels} - List the media channels to be used.",FALSE,TEXT,gurkan@aplimax.net
-Pet Store Advertising Campaign Strategy,"Act as a marketing strategist. You are tasked with developing a comprehensive advertising campaign for Migros' new pet stores. Your objective is to increase brand awareness and drive customer traffic to the stores.
-
-Your responsibilities include:
-- Identifying the target audience and understanding their needs and preferences.
-- Crafting a compelling campaign message and slogan.
-- Selecting appropriate media channels for the campaign.
-- Designing promotional materials and activities.
-
-Rules:
-- The campaign should focus on both online and offline strategies.
-- Ensure all materials adhere to Migros' brand guidelines.
-
-Variables:
-- ${targetAudience} - Define the specific audience group.
-- ${campaignMessage} - Create a memorable slogan or message.
-- ${mediaChannels} - List the media channels to be used.",FALSE,TEXT,gurkan@aplimax.net
- LinkedIn comments ,"You will help me write LinkedIn comments that sound human, simple, and typed from my phone.
-
-Before giving any comment, you must ask me 3–5 short questions about the post.
-These questions help you decide whether the post needs humor, support, challenge, congratulations, advice, or something else.
-
-My Commenting Style
-
-Follow it exactly:
-
-Avoid the standard “Congratulations 🎉” comments. They are too common.
-
-Use simple English—short, clear, direct.
-
-When appropriate, use level-up metaphors, but only if they fit the post. Do not force them.
-Examples of my metaphors:
-
-“Actually it pays… with this AWS CCP the gate is opened for you, but maybe you want to get to the 5th floor. Don’t wait here at the gate, go for it.”
-
-“I see you’ve just convinced the watchman at the gate… now go and confuse the police dog at the door.”
-
-“After entry certifications, don’t relax. Keep climbing.”
-
-“Nice move. Now the real work starts.”
-
-Meaning of the Metaphors
-
-Use them only when the context makes sense, not for every post.
-
-The gate = entry level
-
-The watchman = AWS Cloud Practitioner
-
-The police dog = AWS Solutions Architect or higher
-
-The 5th floor = deeper skills or next certification
-
-My Background
-
-Use this to shape tone and credibility in subtle ways:
-
-I am Vincent Omondi Owuor, an AWS Certified Cloud Practitioner and full-stack developer.
-I work with AWS (Lambda, S3, EC2, DynamoDB), OCI, React, TypeScript, C#, ASP.NET MVC, Node.js, SQL Server, MySQL, Terraform, and M-Pesa Daraja API.
-I build scalable systems, serverless apps, and enterprise solutions.
-I prefer practical, down-to-earth comments.
-
-Your Task
-
-After you ask the clarifying questions and I answer them, generate three comment options:
-
-A direct practical comment
-
-A light-humor comment (only if appropriate) using my metaphors when they fit
-
-A thoughtful comment, still simple English
-
-Rules
-
-Keep comments short
-
-No corporate voice
-
-No high English
-
-No fake “guru” tone
-
-No “Assume you are a LinkedIn strategist with 20 years of experience”
-
-Keep it human and real
-
-Match the energy of the post
-
-If the post is serious, avoid jokes
-
-If the post is casual, you can be playful
-
-For small achievements, give a gentle push
-
-For big achievements, acknowledge without being cheesy
-
-When you finish generating the three comments, ask:
-“Which one should we post?”
-
-Now start by asking me the clarifying questions. Do not generate comments before asking questions. so what should we add, ask me to give you before you generate the prompt",FALSE,TEXT,owuorviny109
-Detailed Image Generation Prompt for Fashion and Portrait Photography,"{
-  ""image_generation_prompt"": {
-    ""subject"": {
-      ""demographics"": ""Young woman"",
-      ""hair"": {
-        ""color"": ""Strawberry blonde / Golden blonde"",
-        ""style"": ""Long, voluminous, layered, slightly messy waves"",
-        ""parting"": ""Middle part""
-      },
-      ""face"": {
-        ""makeup"": ""Winged black eyeliner, mascara, defined eyebrows, highlighter on nose and cheeks, glossy pink lips"",
-        ""expression"": ""Neutral to slight pout, focused on mirror reflection""
-      },
-      ""physique"": ""Slender, fit, tan skin tone""
-    },
-    ""apparel"": {
-      ""outerwear"": {
-        ""item"": ""Faux fur jacket"",
-        ""color"": ""Crimson/red mixed tones"",
-        ""texture"": ""Shaggy, plush, voluminous""
-      },
-      ""top"": {
-        ""item"": ""Corset top"",
-        ""style"": ""Strapless, bustier-style, cropped"",
-        ""material"": ""Crimson satin or slightly shiny fabric"",
-        ""fit"": ""Tight, structured bodice""
-      },
-      ""bottoms"": {
-        ""item"": ""Jeans"",
-        ""color"": ""Light blue wash"",
-        ""fit"": ""Low-rise, tight fit"",
-        ""details"": ""Visible stitching, front pockets""
-      }
-    },
-    ""accessories"": {
-      ""jewelry"": [
-        ""Thin gold chain necklace with small pendant"",
-        ""Gold ring on right ring finger""
-      ],
-      ""belt"": {
-        ""material"": ""Black leather"",
-        ""buckle"": ""Rectangular gold/metallic frame""
-      },
-      ""tech"": {
-        ""item"": ""Smartphone (iPhone style)"",
-        ""case_color"": ""Black"",
-        ""holding_style"": ""Held vertically in front of face with right hand""
-      },
-      ""beauty_details"": {
-        ""nails"": ""Short, painted bright red""
-      }
-    },
-    ""pose_and_framing"": {
-      ""type"": ""Mirror selfie"",
-      ""posture"": ""Standing, slight hip tilt (contrapposto), midriff exposed"",
-      ""framing"": ""Thigh-up shot, portrait orientation""
-    },
-    ""setting_and_lighting"": {
-      ""location"": ""Indoors (likely a bedroom or hallway)"",
-      ""background_elements"": {
-        ""left"": ""Dark window with blinds, glimpse of bed/furniture with white clutter"",
-        ""right"": ""White door frame/jamb, plain wall""
-      },
-      ""lighting"": {
-        ""quality"": ""Warm, directional artificial light"",
-        ""source"": ""Coming from the right side"",
-        ""shadows"": ""Casts shadows on the left side of the torso and background""
-      }
-    }
-  }
-}",FALSE,STRUCTURED,cipeberre@gmail.com
-High-End Beauty Editorial Photo Shoot Specification,"{
-  ""project_specifications"": {
-    ""format"": ""2x2 Grid Collage"",
-    ""aspect_ratio"": ""4:5"",
-    ""aesthetic_style"": ""High-end Beauty Editorial"",
-    ""rendering_engine_hints"": {
-      ""realism_level"": ""Ultra-photorealistic"",
-      ""texture_quality"": ""8k"",
-      ""lighting_simulation"": ""Ray-traced studio lighting""
-    }
-  },
-  ""global_assets"": {
-    ""subject_definition"": {
-      ""hair"": {
-        ""style"": ""Long, loosely wavy, voluminous"",
-        ""texture"": ""Natural, individual strands defined"",
-        ""behavior"": ""Messy but styled, framing face and shoulders""
-      },
-      ""complexion"": {
-        ""skin_texture"": ""Porous, hyper-realistic"",
-        ""finish"": ""Dewy, glass-skin effect"",
-        ""makeup"": {
-          ""cheeks"": ""Heavy flush/blush"",
-          ""lips"": ""High-gloss, plump, natural pink"",
-          ""eyes"": ""Clean, defined lashes, natural brows""
-        }
-      },
-      ""wardrobe"": {
-        ""item"": ""Mini dress"",
-        ""fit"": ""Bodycon / Tight"",
-        ""fabric"": {
-          ""material"": ""Soft textured knit / Boucle"",
-          ""tactility"": ""Fuzzy, light-catching fibers"",
-          ""color"": ""Soft mauve or neutral taupe""
-        },
-        ""details"": ""Spaghetti straps, mid-thigh length""
-      }
-    },
-    ""environment_definition"": {
-      ""studio_setup"": {
-        ""background"": ""Seamless paper, soft off-white/beige"",
-        ""atmosphere"": ""Clean, warm, intimate""
-      },
-      ""lighting_rig"": {
-        ""key_light"": ""Large diffuse softbox (Front-Left)"",
-        ""fill_light"": ""Reflector (Right)"",
-        ""highlights"": ""Specular highlights on lips, cheekbones, and shoulders""
-      }
-    }
-  },
-  ""panel_architecture"": [
-    {
-      ""position"": ""Top-Left (1)"",
-      ""shot_type"": ""Extreme Close-Up (Macro)"",
-      ""composition"": {
-        ""angle"": ""Low angle, looking up slightly"",
-        ""focus"": ""Mouth and nose area"",
-        ""depth_of_field"": ""Shallow""
-      },
-      ""action"": {
-        ""primary"": ""Eating a strawberry"",
-        ""nuance"": ""Delicate finger hold, lips slightly parted""
-      },
-      ""visual_anchors"": [
-        ""Moisture on strawberry surface"",
-        ""Gloss reflection on lips"",
-        ""Baby hairs at temple""
-      ]
-    },
-    {
-      ""position"": ""Top-Right (2)"",
-      ""shot_type"": ""Medium Shot (Thigh-up)"",
-      ""composition"": {
-        ""angle"": ""Eye level"",
-        ""pose_dynamic"": ""Leaning forward slightly towards lens""
-      },
-      ""action"": {
-        ""stance"": ""Standing straight on"",
-        ""arms"": ""Relaxed at sides"",
-        ""expression"": ""Direct gaze, alluring pout""
-      },
-      ""visual_anchors"": [
-        ""Texture of knit dress"",
-        ""Collarbone shadows"",
-        ""Curvature of waist""
-      ]
-    },
-    {
-      ""position"": ""Bottom-Left (3)"",
-      ""shot_type"": ""Full Body (Seated)"",
-      ""composition"": {
-        ""angle"": ""Side profile"",
-        ""framing"": ""Subject compacted on floor""
-      },
-      ""action"": {
-        ""pose"": ""Knees to chest (fetal position variation)"",
-        ""interaction"": ""Cheek resting on knee, arms embracing legs"",
-        ""hair_flow"": ""Cascading onto the floor""
-      },
-      ""visual_anchors"": [
-        ""Smooth leg definition"",
-        ""Dress stretching over thigh"",
-        ""Dreamy gaze""
-      ]
-    },
-    {
-      ""position"": ""Bottom-Right (4)"",
-      ""shot_type"": ""Beauty Portrait (Head & Hands)"",
-      ""composition"": {
-        ""angle"": ""Frontal close-up"",
-        ""framing"": ""Chin to hairline""
-      },
-      ""action"": {
-        ""gesture"": ""Chin resting on interlaced fingers"",
-        ""expression"": ""Soft smile, looking off-camera""
-      },
-      ""visual_anchors"": [
-        ""Hand detail and manicure"",
-        ""Eye clarity"",
-        ""Flush on cheeks""
-      ]
-    }
-  ]
-}",FALSE,STRUCTURED,cipeberre@gmail.com
